@@ -1,0 +1,10 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.listItem:hover {
+  background-color: theme("colors.gray.300");
+}

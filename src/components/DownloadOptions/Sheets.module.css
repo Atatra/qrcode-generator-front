@@ -1,0 +1,7 @@
+.button {
+  background-color: theme("colors.gray.300");
+  width: 100%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 8px;
+}
