@@ -11,6 +11,14 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        gray: {
+          200: "#F1F2F4",
+          300: "#E5E5E5",
+          700: "#ABABAB",
+        },
+      },
+      fontFamily: {
+        segoeui: ["var(--font-segoe-ui)"],
       },
     },
   },
